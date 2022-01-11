@@ -1,0 +1,2 @@
+# Diabetes-Prediction-System
+This project predicts if a person is diabetic or not by taking inputs on various symptoms like Number of Pregnancies, Blood Glucose Level, Blood Pressure,  Skin Thickness, Insulin Level, Body Mass Index (BMI) Value, Diabetes Pedigree Function Value and Age of the Patient. This project uses Data Science and Machine Learning using Python and. We use Support Vector Machine model for the prediction and Streamlit Library for the deployment.
